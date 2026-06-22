@@ -1,0 +1,296 @@
+[
+  {
+    "version": "0.57.1",
+    "build": "272",
+    "title": "Continuum 0.57.1",
+    "publishedAt": "2026-06-20T11:26:26Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.57.1-arm64.md"
+  },
+  {
+    "version": "0.57.0",
+    "build": "271",
+    "title": "Continuum 0.57.0",
+    "publishedAt": "2026-06-20T08:06:07Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.57.0-arm64.md"
+  },
+  {
+    "version": "0.56.0",
+    "build": "270",
+    "title": "Continuum 0.56.0",
+    "publishedAt": "2026-06-19T20:05:45Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.56.0-arm64.md"
+  },
+  {
+    "version": "0.55.0",
+    "build": "269",
+    "title": "Continuum 0.55.0",
+    "publishedAt": "2026-06-19T15:38:57Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.55.0-arm64.md"
+  },
+  {
+    "version": "0.54.0",
+    "build": "268",
+    "title": "Continuum 0.54.0",
+    "publishedAt": "2026-06-19T11:28:32Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.54.0-arm64.md"
+  },
+  {
+    "version": "0.53.0",
+    "build": "267",
+    "title": "Continuum 0.53.0",
+    "publishedAt": "2026-06-18T21:49:23Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.53.0-arm64.md"
+  },
+  {
+    "version": "0.52.0",
+    "build": "266",
+    "title": "Continuum 0.52.0",
+    "publishedAt": "2026-06-18T12:48:33Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.52.0-arm64.md"
+  },
+  {
+    "version": "0.51.1",
+    "build": "265",
+    "title": "Continuum 0.51.1",
+    "publishedAt": "2026-06-18T09:15:01Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.51.1-arm64.md"
+  },
+  {
+    "version": "0.50.0",
+    "build": "263",
+    "title": "Continuum 0.50.0",
+    "publishedAt": "2026-06-17T10:27:27Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.50.0-arm64.md"
+  },
+  {
+    "version": "0.49.0",
+    "build": "262",
+    "title": "Continuum 0.49.0",
+    "publishedAt": "2026-06-17T05:47:23Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.49.0-arm64.md"
+  },
+  {
+    "version": "0.48.0",
+    "build": "261",
+    "title": "Continuum 0.48.0",
+    "publishedAt": "2026-06-16T16:36:38Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.48.0-arm64.md"
+  },
+  {
+    "version": "0.47.1",
+    "build": "260",
+    "title": "Continuum 0.47.1",
+    "publishedAt": "2026-06-16T12:28:34Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.47.1-arm64.md"
+  },
+  {
+    "version": "0.47.0",
+    "build": "259",
+    "title": "Continuum 0.47.0",
+    "publishedAt": "2026-06-16T10:24:35Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.47.0-arm64.md"
+  },
+  {
+    "version": "0.46.0",
+    "build": "258",
+    "title": "Continuum 0.46.0",
+    "publishedAt": "2026-06-16T08:40:26Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.46.0-arm64.md"
+  },
+  {
+    "version": "0.45.0",
+    "build": "257",
+    "title": "Continuum 0.45.0",
+    "publishedAt": "2026-06-16T06:09:15Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.45.0-arm64.md"
+  },
+  {
+    "version": "0.44.0",
+    "build": "255",
+    "title": "Continuum 0.44.0",
+    "publishedAt": "2026-06-15T16:01:22Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.44.0-arm64.md"
+  },
+  {
+    "version": "0.43.0",
+    "build": "252",
+    "title": "Continuum 0.43.0",
+    "publishedAt": "2026-06-15T03:48:50Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.43.0-arm64.md"
+  },
+  {
+    "version": "0.42.4",
+    "build": "251",
+    "title": "Continuum 0.42.4",
+    "publishedAt": "2026-06-14T18:24:54Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.42.4-arm64.md"
+  },
+  {
+    "version": "0.42.3",
+    "build": "250",
+    "title": "Continuum 0.42.3",
+    "publishedAt": "2026-06-14T14:07:30Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.42.3-arm64.md"
+  },
+  {
+    "version": "0.42.2",
+    "build": "249",
+    "title": "Continuum 0.42.2",
+    "publishedAt": "2026-06-14T12:10:28Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.42.2-arm64.md"
+  },
+  {
+    "version": "0.42.1",
+    "build": "248",
+    "title": "Continuum 0.42.1",
+    "publishedAt": "2026-06-14T10:52:42Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.42.1-arm64.md"
+  },
+  {
+    "version": "0.42.0",
+    "build": "247",
+    "title": "Continuum 0.42.0",
+    "publishedAt": "2026-06-14T07:43:26Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.42.0-arm64.md"
+  },
+  {
+    "version": "0.41.0",
+    "build": "246",
+    "title": "Continuum 0.41.0",
+    "publishedAt": "2026-06-14T05:11:42Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.41.0-arm64.md"
+  },
+  {
+    "version": "0.40.0",
+    "build": "244",
+    "title": "Continuum 0.40.0",
+    "publishedAt": "2026-06-14T02:29:57Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.40.0-arm64.md"
+  },
+  {
+    "version": "0.39.0",
+    "build": "243",
+    "title": "Continuum 0.39.0",
+    "publishedAt": "2026-06-13T14:55:07Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.39.0-arm64.md"
+  },
+  {
+    "version": "0.38.1",
+    "build": "242",
+    "title": "Continuum 0.38.1",
+    "publishedAt": "2026-06-13T11:37:56Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.38.1-arm64.md"
+  },
+  {
+    "version": "0.38.0",
+    "build": "241",
+    "title": "Continuum 0.38.0",
+    "publishedAt": "2026-06-13T07:08:12Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.38.0-arm64.md"
+  },
+  {
+    "version": "0.37.0",
+    "build": "237",
+    "title": "Continuum 0.37.0",
+    "publishedAt": "2026-06-13T01:33:19Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.37.0-arm64.md"
+  },
+  {
+    "version": "0.36.0",
+    "build": "236",
+    "title": "Continuum 0.36.0",
+    "publishedAt": "2026-06-12T09:59:27Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.36.0-arm64.md"
+  },
+  {
+    "version": "0.35.0",
+    "build": "235",
+    "title": "Continuum 0.35.0",
+    "publishedAt": "2026-06-12T06:34:46Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.35.0-arm64.md"
+  },
+  {
+    "version": "0.34.0",
+    "build": "233",
+    "title": "Continuum 0.34.0",
+    "publishedAt": "2026-06-11T23:38:39Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.34.0-arm64.md"
+  },
+  {
+    "version": "0.33.0",
+    "build": "231",
+    "title": "Continuum 0.33.0",
+    "publishedAt": "2026-06-11T07:35:18Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.33.0-arm64.md"
+  },
+  {
+    "version": "0.32.2",
+    "build": "229",
+    "title": "Continuum 0.32.2",
+    "publishedAt": "2026-06-11T01:33:22Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.32.2-arm64.md"
+  },
+  {
+    "version": "0.32.1",
+    "build": "228",
+    "title": "Continuum 0.32.1",
+    "publishedAt": "2026-06-10T23:05:54Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.32.1-arm64.md"
+  },
+  {
+    "version": "0.31.17",
+    "build": "225",
+    "title": "Continuum 0.31.17",
+    "publishedAt": "2026-06-10T18:56:25Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.17-arm64.md"
+  },
+  {
+    "version": "0.31.16",
+    "build": "224",
+    "title": "Continuum 0.31.16",
+    "publishedAt": "2026-06-10T09:29:57Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.16-arm64.md"
+  },
+  {
+    "version": "0.31.15",
+    "build": "223",
+    "title": "Continuum 0.31.15",
+    "publishedAt": "2026-06-10T08:37:23Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.15-arm64.md"
+  },
+  {
+    "version": "0.31.14",
+    "build": "222",
+    "title": "Continuum 0.31.14",
+    "publishedAt": "2026-06-10T04:42:05Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.14-arm64.md"
+  },
+  {
+    "version": "0.31.13",
+    "build": "221",
+    "title": "Continuum 0.31.13",
+    "publishedAt": "2026-06-10T04:22:55Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.13-arm64.md"
+  },
+  {
+    "version": "0.31.12",
+    "build": "220",
+    "title": "Continuum 0.31.12",
+    "publishedAt": "2026-06-10T03:52:08Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.12-arm64.md"
+  },
+  {
+    "version": "0.31.1",
+    "build": "201",
+    "title": "Continuum 0.31.1",
+    "publishedAt": "2026-06-05T22:54:41Z",
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/Continuum-0.31.1-arm64.md"
+  },
+  {
+    "version": "0.30.0",
+    "build": "198",
+    "title": "Sparkle in-app updates",
+    "publishedAt": null,
+    "notesURL": "https://darshanbathija.github.io/Continuum/updates/release-notes/0.30.0.md"
+  }
+]
