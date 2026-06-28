@@ -1,10 +1,10 @@
 [
   {
-    "version": "0.57.7",
-    "build": "278",
-    "title": "Continuum 0.57.7",
-    "publishedAt": "2026-06-27T11:50:04Z",
-    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.7-arm64.md"
+    "version": "0.57.8",
+    "build": "279",
+    "title": "Continuum 0.57.8",
+    "publishedAt": "2026-06-28T15:53:11Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.8-arm64.md"
   },
   {
     "version": "0.57.1",
