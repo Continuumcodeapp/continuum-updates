@@ -4,17 +4,17 @@
         <title>Continuum</title>
         <item>
             <title>0.57.12</title>
-            <pubDate>Tue, 30 Jun 2026 18:28:59 +0700</pubDate>
+            <pubDate>Wed, 01 Jul 2026 23:50:49 +0700</pubDate>
             <sparkle:version>283</sparkle:version>
             <sparkle:shortVersionString>0.57.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.12-arm64.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.57.12-arm64.zip" length="189560694" type="application/octet-stream" sparkle:edSignature="GUMT1afxgFSEPOuKtpjhcZYoscMBOSbXdUJc5dZsgNxbh9/cktuuCrGWgSWqX2MtNP1xurH7EyR15AzkMoxbAw=="/>
+            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.57.12-arm64.zip" length="189560728" type="application/octet-stream" sparkle:edSignature="Qhd2UUPsA5x4YSFiK8Q5i02YBF0GDtRtUQT4bdaXMzQC0b8vPcThidsKAOi6hKlxrkFrY8qMHZTgwPQFgy61DA=="/>
         </item>
         <item>
             <title>0.57.11</title>
-            <pubDate>Tue, 30 Jun 2026 18:22:41 +0700</pubDate>
+            <pubDate>Wed, 01 Jul 2026 22:42:48 +0700</pubDate>
             <sparkle:version>282</sparkle:version>
             <sparkle:shortVersionString>0.57.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
@@ -23,7 +23,7 @@
         </item>
         <item>
             <title>0.57.10</title>
-            <pubDate>Tue, 30 Jun 2026 18:25:09 +0700</pubDate>
+            <pubDate>Wed, 01 Jul 2026 23:17:14 +0700</pubDate>
             <sparkle:version>281</sparkle:version>
             <sparkle:shortVersionString>0.57.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
