@@ -4,7 +4,7 @@ Remote-device setup reliability: you can now minimize a running device install a
 
 ## New
 
-- **Minimize a device setup while it installs.** The "Add Tailscale device" / "Add via SSH" setup sheet now has a Minimize button — the install keeps running in the background as a compact progress dock in Settings → Devices that you can click to re-expand, instead of forcing you to keep the modal open the whole time. The dock clears itself automatically once the device finishes connecting. (#820)
+- **Minimize a device setup while it installs.** The "Add Tailscale device" / "Add via SSH" setup sheet now has a Minimize button - the install keeps running in the background as a compact progress dock in Settings → Devices that you can click to re-expand, instead of forcing you to keep the modal open the whole time. The dock clears itself automatically once the device finishes connecting. (#820)
 
 ## Fixed
 

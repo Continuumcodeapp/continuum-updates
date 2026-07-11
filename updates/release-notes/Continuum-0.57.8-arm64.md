@@ -4,7 +4,7 @@ Connecting remote devices over Tailscale is faster, more reliable, and now fully
 
 ## New
 
-- **One-click remote Mac setup.** When you connect a Tailscale Mac that doesn't have Continuum yet, setup now downloads, installs, and starts it for you automatically — then continues registration. No more manual install step before connecting a Mac. (#798)
+- **One-click remote Mac setup.** When you connect a Tailscale Mac that doesn't have Continuum yet, setup now downloads, installs, and starts it for you automatically - then continues registration. No more manual install step before connecting a Mac. (#798)
 - **Instant "Add Tailscale device" picker.** The picker opens immediately and scans your tailnet in the background, and the device list is cached so reopening is instant. Tailscale lookups are also time-bounded, so a stuck or slow Tailscale never hangs the sheet. (#797)
 
 ## Fixed

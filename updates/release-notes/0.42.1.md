@@ -4,7 +4,7 @@ A focused round of fixes across spawn mode, the composer, and updates, plus a si
 
 ## New
 
-- **Simpler voice-model picker.** Settings → Voice now shows a single flat list of transcription models (Apple Speech, WhisperKit, Parakeet) instead of a separate engine selector — pick a model and the right engine is used automatically. (#491)
+- **Simpler voice-model picker.** Settings → Voice now shows a single flat list of transcription models (Apple Speech, WhisperKit, Parakeet) instead of a separate engine selector - pick a model and the right engine is used automatically. (#491)
 - **Second-device onboarding.** Settings → Devices now walks you through adding a second device (execution host) so you can run agents on another Mac. (#492)
 - **Paste images into the composer.** ⌘V now pastes clipboard images (screenshots, copied files) straight into the chat composer as attachments. (#489)
 

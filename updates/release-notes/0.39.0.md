@@ -8,7 +8,7 @@ On-device voice transcription arrives, plus a round of Spawn-mode and Code-tab i
 - **Start sessions straight from the spawn grid.** Empty spawn-grid cells now show a "Start New Session" button, so you can refill a closed tile without reopening the config sheet. (#449)
 - **Smarter spawn "+".** When the grid is full, "+" now auto-debits a slot from the default agent instead of doing nothing. (#455)
 - **Spawn 1 or 2 sessions.** The session-count picker now offers 1 and 2, alongside 4 / 6 / 8. (#458)
-- **Editable workspace rename.** Renaming a workspace opens a proper editable sheet with an "Also rename branch" toggle — relabel the workspace while keeping an open PR's branch name intact. (#453)
+- **Editable workspace rename.** Renaming a workspace opens a proper editable sheet with an "Also rename branch" toggle - relabel the workspace while keeping an open PR's branch name intact. (#453)
 - **Live harness reconfigure.** Change a harness agent's model, effort, or permission mode mid-session and it reconfigures in place instead of erroring out. (#457)
 
 ## Fixes

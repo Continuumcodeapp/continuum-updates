@@ -5,12 +5,12 @@ Light theme, leaderboard, provider logos, and 21 improvements to the Code tab, c
 - **Quiet White light theme.** A crisp light mode variant you can switch to in Settings → Appearance, or let macOS toggle automatically. Default stays Dark.
 - **Flat ranked leaderboard for tokens by model.** The model breakdown is now a compact percentage-bar list with token count and cost per model at a glance.
 - **Provider logo in the model chip.** The composer and session detail show the provider's logo next to the model name.
-- **Effort is its own composer pill.** Reasoning effort (Low / Medium / High / Max) has a dedicated chip in the Code tab composer — change it without touching the model selector.
+- **Effort is its own composer pill.** Reasoning effort (Low / Medium / High / Max) has a dedicated chip in the Code tab composer - change it without touching the model selector.
 - **Install All for vendor provisioning.** One-tap button installs every missing dependency without stepping through each prompt.
 - **Rename workspace and git branch from the sidebar.** Right-click any workspace → Rename updates both the folder name and its tracking git branch.
 - **Worktree branch shown in the Code tab breadcrumb.** The active worktree branch name is now part of the breadcrumb path.
 - **Worktree diffs yield to the archive affordance on hover.** The diff preview steps aside so the archive button is always reachable.
-- **Segmented controls visible in light mode.** The segment track was transparent in Quiet White — fixed by threading the missing `segmentTrack` token through to both view call sites.
+- **Segmented controls visible in light mode.** The segment track was transparent in Quiet White - fixed by threading the missing `segmentTrack` token through to both view call sites.
 - **Usage bars are evenly spaced.** Provider gauge columns divide width equally when fewer than the maximum providers are active.
 - **Worktree live-status dot stays in position.** The green activity dot no longer shifts when a row is hovered or selected.
 - **Duplicate Diff label is gone.** The Settings pane no longer shows the Diff heading twice.

@@ -14,7 +14,7 @@ Security hardening ahead of an external pentest, a smarter model picker, a batch
 
 ## Under the hood
 
-- **Pre-pentest security hardening.** A four-wave adversarial security audit (Claude + Codex, ~150 findings triaged) closed P0/P1/P2 issues across the Mac/iOS/Watch apps, the Continuum Cloud backend, and the Linux agent — SSRF, symlink-follow, injection, trust-gate, and denial-of-service fixes — ahead of an external penetration test. No user-facing behavior changes. (#793–#796)
+- **Pre-pentest security hardening.** A four-wave adversarial security audit (Claude + Codex, ~150 findings triaged) closed P0/P1/P2 issues across the Mac/iOS/Watch apps, the Continuum Cloud backend, and the Linux agent - SSRF, symlink-follow, injection, trust-gate, and denial-of-service fixes - ahead of an external penetration test. No user-facing behavior changes. (#793–#796)
 - **Refreshed website + one-click Mac download.** continuumcode.ai gets a cleaner landing page, docs served at /docs, web analytics, and a direct "Download for Mac" button. (#781, #784, #785, #789, #792)
 
 Ships build 278 for Mac (signed Sparkle feed).

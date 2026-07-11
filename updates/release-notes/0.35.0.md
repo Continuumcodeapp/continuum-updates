@@ -5,7 +5,7 @@ Multi-account provider settings, a redesigned Providers pane, the OpenRouter pro
 - **Redesigned Settings → Providers.** Each provider now has a clean Connect/Disconnect layout, and the Skills settings tab matches the same styling for a consistent settings surface. (#383, #380)
 - **Better multi-account provider settings.** Secondary Claude and Codex accounts are handled more evenly across the app, with sensible Code defaults per account and Terminal shims installed for each secondary so your shell sees the right account. (#371, #375)
 - **OpenRouter is back.** The OpenRouter provider returns with distinct branding so you can route Chat and Code through it again. (#376)
-- **Code tab account chip.** The Code tab now shows which account a session is running under, right beside the permission-mode control — no more guessing which subscription is being billed. (#373)
+- **Code tab account chip.** The Code tab now shows which account a session is running under, right beside the permission-mode control - no more guessing which subscription is being billed. (#373)
 - **OpenCode Go credential import.** Saving OpenCode Go settings now imports your quota credentials straight from the browser Keychain, so the usage meters light up without manual cookie copying. (#372)
 - **Cursor usage in the menu bar.** The menu-bar label now shows both Cursor Auto and API usage, and the Usage tab provider-card grid lays out cleanly for 5 and 6 cards. The redundant Monthly total row was removed. (#387, #374, #388)
 

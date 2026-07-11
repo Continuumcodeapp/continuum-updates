@@ -1,9 +1,9 @@
 # Continuum 0.37.0
 
-Spawn a grid of agent terminals, run agents on remote and cloud hosts, dictate hands-free with voice, and find files instantly with built-in fuzzy search — plus a new provider picker and a lot of Code-tab polish.
+Spawn a grid of agent terminals, run agents on remote and cloud hosts, dictate hands-free with voice, and find files instantly with built-in fuzzy search - plus a new provider picker and a lot of Code-tab polish.
 
-- **Spawn mode — a grid of agents.** Launch a grid of agent terminals on the Code tab and watch several agents work side by side at once. (#413)
-- **Run agents anywhere — multi-host execution.** Hand a session off to a remote or auto-provisioned cloud host, with tailnet-aware routing and per-host run-minute tracking, so heavy work doesn't tie up your Mac. (#417)
+- **Spawn mode - a grid of agents.** Launch a grid of agent terminals on the Code tab and watch several agents work side by side at once. (#413)
+- **Run agents anywhere - multi-host execution.** Hand a session off to a remote or auto-provisioned cloud host, with tailnet-aware routing and per-host run-minute tracking, so heavy work doesn't tie up your Mac. (#417)
 - **Hands-free voice dictation.** Hold the Fn key to dictate into the composer (or any app) with an on-screen overlay, on-device transcription via WhisperKit, and a new Voice settings tab. (#422)
 - **Instant file search.** A built-in fuzzy file finder powers Code-tab file search and gives your agents a fast repo search tool out of the box. (#423)
 - **Pick any provider.** A new OpenCode-style provider picker with logos, plus inline custom OpenAI/Anthropic-compatible providers and OpenCode partner models. (#408, #417)

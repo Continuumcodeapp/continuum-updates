@@ -4,7 +4,7 @@ A Code-tab and Chat polish release: inline diffs with colored file chips, near-r
 
 ## New & improved
 
-- **Inline diffs & colored file chips.** Edited-file chips in the transcript are now color-coded by file type and expand to an inline diff preview on click — see exactly what changed without leaving the chat. (#626)
+- **Inline diffs & colored file chips.** Edited-file chips in the transcript are now color-coded by file type and expand to an inline diff preview on click - see exactly what changed without leaving the chat. (#626)
 - **Live PR status in the sidebar.** Per-branch PR state (open / draft / merged / closed), review buckets, and repo PR counts refresh in near-real-time from GitHub instead of going stale. (#635)
 - **Scrollable spawn terminals with native colors.** Spawn-grid terminal tiles now scroll properly (TUIs and scrollback) and render native ANSI colors that match your system appearance. (#629)
 - **Spawn grid reclaims space.** Closing a spawn tile compacts the grid to the next layout so the remaining live terminals grow to fill the pane, and tiles redraw cleanly on resize. (#631, #633)

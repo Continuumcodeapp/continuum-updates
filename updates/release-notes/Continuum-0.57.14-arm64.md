@@ -1,6 +1,6 @@
 # Continuum 0.57.14
 
-A polish release for the Code composer and session sidebar — slash commands and mentions are easier to use, the live data-stream animation stays smooth with many sessions, and a batch of Mac and iOS composer fixes.
+A polish release for the Code composer and session sidebar - slash commands and mentions are easier to use, the live data-stream animation stays smooth with many sessions, and a batch of Mac and iOS composer fixes.
 
 ## Fixed
 

@@ -4,7 +4,7 @@ A workbench-polish release: smoother streaming chat, branch names taken from you
 
 ## New & improved
 
-- **Branch names from your first prompt.** New Code sessions now name their worktree branch after what you actually asked for (a clean, git-safe slug of your first message) instead of a random city — and rename the live branch once you send, keeping the worktree path stable. (#588)
+- **Branch names from your first prompt.** New Code sessions now name their worktree branch after what you actually asked for (a clean, git-safe slug of your first message) instead of a random city - and rename the live branch once you send, keeping the worktree path stable. (#588)
 - **Pick who lands your PRs.** The Land PRs action gets a provider + model + effort chooser, so you can run it on Claude, Codex, Cursor, or any configured agent instead of always Claude. (#582)
 - **Smoother streaming chat.** Transcripts now auto-follow the streaming reply with a coalesced glide instead of snapping on every token, and respect Reduce Motion. (#579)
 - **Transcripts come back after a restart.** Code-tab chat history for harness sessions (Codex/Cursor/etc.) is restored on relaunch instead of opening blank. (#580)

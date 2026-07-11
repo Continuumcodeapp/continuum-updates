@@ -5,7 +5,7 @@ A big workbench release: a new Save Costs control center for token/cost reducers
 ## New & improved
 
 - **Save Costs settings.** A new Settings section to cut token spend: enable the **Headroom** local-compression proxy and the **Caveman** token reducer per provider, see live install/status, and one-click install the tooling. Estimated savings are shown up front. (#615)
-- **Streaming shows up the instant you send.** Send a prompt and the active turn — the streaming footer and elapsed timer — appears within a frame, before the server confirms, instead of after a beat. Worktree streams light their status immediately too. (#609, #606)
+- **Streaming shows up the instant you send.** Send a prompt and the active turn - the streaming footer and elapsed timer - appears within a frame, before the server confirms, instead of after a beat. Worktree streams light their status immediately too. (#609, #606)
 - **Settings that read as one surface.** The Visual toggles now use the same trackless segmented style as the primary nav, Skills is promoted to its own top-level Settings group, and provider preferences persist across restarts. (#598, #597, #602)
 - **Tidier Code-tab transcript.** Consecutive Bash/shell tool runs collapse into a single "Ran N commands" group, attachments show their real generated filename instead of a type label, and session/branch summaries read cleanly even when your first message is attachment-only. (#612, #607, #610)
 - **Faster Codex startup.** Opening a Codex workspace returns immediately and brings the agent online in the background instead of blocking on the handshake. (#608)

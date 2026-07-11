@@ -1,11 +1,11 @@
 # Continuum 0.55.0
 
-A Code-tab speed + transcript-readability release: session switching is now near-instant, completed turns read in chronological order with thinking and tools in place, and the new-session sheet is model-first — plus a batch of sidebar/composer polish.
+A Code-tab speed + transcript-readability release: session switching is now near-instant, completed turns read in chronological order with thinking and tools in place, and the new-session sheet is model-first - plus a batch of sidebar/composer polish.
 
 ## New & improved
 
-- **Near-instant Code-tab session switching.** Toggling between recently-open sessions is now a sub-250ms visibility flip instead of a full transcript rebuild — a small pool of recent sessions stays mounted, so switching no longer feels frozen. (#707)
-- **Readable completed transcripts.** A finished turn now renders its full body in chronological order — thinking one-liners and grouped tool runs shown in place — instead of collapsing everything into a single "Ran N commands" capsule. Collapsing is still available per-turn, and a tap expands any "Thinking" row to the full reasoning. (#703)
+- **Near-instant Code-tab session switching.** Toggling between recently-open sessions is now a sub-250ms visibility flip instead of a full transcript rebuild - a small pool of recent sessions stays mounted, so switching no longer feels frozen. (#707)
+- **Readable completed transcripts.** A finished turn now renders its full body in chronological order - thinking one-liners and grouped tool runs shown in place - instead of collapsing everything into a single "Ran N commands" capsule. Collapsing is still available per-turn, and a tap expands any "Thinking" row to the full reasoning. (#703)
 - **Model-first new-session sheet.** The Mac new-session sheet is redesigned around picking your model first (Model → Plan/Code → Project), with an Advanced setup-script disclosure. (#706)
 
 ## Fixed

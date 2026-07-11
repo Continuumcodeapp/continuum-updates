@@ -1,6 +1,6 @@
 # Continuum 0.43.0
 
-A Chat- and Settings-focused release: per-provider session defaults, a way out of a stuck turn, and a cleaner, calmer chat surface — plus a batch of fixes across the composer, worktrees, and the Voice picker.
+A Chat- and Settings-focused release: per-provider session defaults, a way out of a stuck turn, and a cleaner, calmer chat surface - plus a batch of fixes across the composer, worktrees, and the Voice picker.
 
 ## New & improved
 

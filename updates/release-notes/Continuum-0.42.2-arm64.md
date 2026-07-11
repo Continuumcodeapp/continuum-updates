@@ -1,6 +1,6 @@
 # Continuum 0.42.2
 
-A polish pass across the chat thread, the composer, and the Code workspace — clearer "working" indicators, a tidier composer, and live-updating diff and PR-status indicators.
+A polish pass across the chat thread, the composer, and the Code workspace - clearer "working" indicators, a tidier composer, and live-updating diff and PR-status indicators.
 
 ## Chat & working indicators
 
@@ -11,7 +11,7 @@ A polish pass across the chat thread, the composer, and the Code workspace — c
 
 ## Composer
 
-- **Tidier follow-up queue.** Queued follow-up sends now render above the composer box (not inside it), and the redundant in-composer queue button is gone — queue a follow-up by pressing Return while a session is working. (#508, #509)
+- **Tidier follow-up queue.** Queued follow-up sends now render above the composer box (not inside it), and the redundant in-composer queue button is gone - queue a follow-up by pressing Return while a session is working. (#508, #509)
 - **No more stuck attachments.** Fixed an attachment that could stay "pending" in the composer after you sent a message. (#497)
 - **Cleaner context indicator.** Removed the redundant context-usage percent label next to the usage ring. (#496)
 

@@ -1,10 +1,10 @@
 # Continuum 0.57.0
 
-A Code-tab responsiveness release: sending feels instant, long live sessions no longer freeze mid-turn, worktrees switch on the first click, and session names settle in with a smooth animation — plus account re-login and a batch of sidebar/composer polish.
+A Code-tab responsiveness release: sending feels instant, long live sessions no longer freeze mid-turn, worktrees switch on the first click, and session names settle in with a smooth animation - plus account re-login and a batch of sidebar/composer polish.
 
 ## New & improved
 
-- **Sending feels instant.** Hitting send in the Code tab now clears the composer immediately and flows your message into the transcript as a "Sending…" bubble that settles into the real turn once it lands — no more echo in the composer chrome. (#731)
+- **Sending feels instant.** Hitting send in the Code tab now clears the composer immediately and flows your message into the transcript as a "Sending…" bubble that settles into the real turn once it lands - no more echo in the composer chrome. (#731)
 - **Animated session names.** When a session's name resolves from its git branch to the AI-summarized title, it now cross-fades smoothly instead of snapping. (#728)
 - **Re-login without re-adding.** Logged-out secondary provider accounts (Settings → Providers) now show a one-click "Re-log in" button that re-authenticates the existing account in place. (#730)
 

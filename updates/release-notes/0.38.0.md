@@ -2,7 +2,7 @@
 
 A redesigned iPhone app, a reorderable Code sidebar, and a wave of provider-settings and analytics fixes.
 
-- **Redesigned iPhone app.** A flat tab shell with Home, Usage, Code, and Chat — a cleaner, faster way to move around on iOS. (#430)
+- **Redesigned iPhone app.** A flat tab shell with Home, Usage, Code, and Chat - a cleaner, faster way to move around on iOS. (#430)
 - **Reorder your projects.** Drag to set a stable, custom order for managed projects in the Code sidebar, and it sticks across launches. (#443)
 - **Preferred account, at a glance.** Provider settings gain a "Preferred Account" column and a "Terminal Command" column so multi-account setups read clearly. (#437)
 - **Friendlier nav tabs.** Nav tabs now show a pointing-hand cursor on hover and a tooltip with their keyboard shortcut. (#439)

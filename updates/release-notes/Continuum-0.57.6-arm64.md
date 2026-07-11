@@ -4,9 +4,9 @@ A big UI refresh for starting and managing sessions, a new hands-free dictation 
 
 ## New
 
-- **A floating New Session composer.** The "+" button (and ⌘N) now opens the "What should we build?" composer floating right over your current session, instead of a separate sheet — pick Plan/Code, effort, and a one-click Worktree or Local toggle inline, or just hit Create for an empty session. ⌥-click "+" still does the instant quick-spawn. (#779)
+- **A floating New Session composer.** The "+" button (and ⌘N) now opens the "What should we build?" composer floating right over your current session, instead of a separate sheet - pick Plan/Code, effort, and a one-click Worktree or Local toggle inline, or just hit Create for an empty session. ⌥-click "+" still does the instant quick-spawn. (#779)
 - **Choose Worktree or Local per new session.** New sessions remember a per-repo (and global) default for whether to run in a git worktree or directly in your working copy, with optional file-copy across devices. (#775)
-- **Universal voice transcriber.** Dictate straight into whatever app is focused — runs on the on-device Parakeet model by default. (#773)
+- **Universal voice transcriber.** Dictate straight into whatever app is focused - runs on the on-device Parakeet model by default. (#773)
 - **Refreshed Code-tab and Devices look.** Code-tab tabs are now clean primary-nav pills, the Devices settings sheets match the rest of the app, and the repo-header "+" lines up with its sibling buttons. (#780, #778, #777)
 
 ## Fixed
