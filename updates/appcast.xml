@@ -3,8 +3,16 @@
     <channel>
         <title>Continuum</title>
         <item>
+            <title>0.62.0</title>
+            <pubDate>Tue, 14 Jul 2026 14:24:29 +0400</pubDate>
+            <sparkle:version>304</sparkle:version>
+            <sparkle:shortVersionString>0.62.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.62.0-arm64.zip" length="222663793" type="application/octet-stream" sparkle:edSignature="y6DHbQv8siZS3k5LVQ04tlyBB2eNVrYUYyWihkLXKMTbQ/Mue5RmpY7v5Ey8Ic5Lf3zaDUssYOTIDA/P8Q68Bw=="/>
+        </item>
+        <item>
             <title>0.61.3</title>
-            <pubDate>Mon, 13 Jul 2026 05:08:35 +0400</pubDate>
+            <pubDate>Tue, 14 Jul 2026 14:22:44 +0400</pubDate>
             <sparkle:version>302</sparkle:version>
             <sparkle:shortVersionString>0.61.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
@@ -12,19 +20,11 @@
         </item>
         <item>
             <title>0.61.1</title>
-            <pubDate>Mon, 13 Jul 2026 05:07:04 +0400</pubDate>
+            <pubDate>Tue, 14 Jul 2026 14:23:25 +0400</pubDate>
             <sparkle:version>300</sparkle:version>
             <sparkle:shortVersionString>0.61.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.61.1-arm64.zip" length="222215727" type="application/octet-stream" sparkle:edSignature="xxiK/beSp0vWIXDd7F2nHqXHA0jAoWXSoSOpI/pB3GzXKEbQduTNvsKgDUUNh8gzAE5DdFrm/bxunCEcAjZsBw=="/>
-        </item>
-        <item>
-            <title>0.61.0</title>
-            <pubDate>Mon, 13 Jul 2026 05:07:33 +0400</pubDate>
-            <sparkle:version>299</sparkle:version>
-            <sparkle:shortVersionString>0.61.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.61.0-arm64.zip" length="222240420" type="application/octet-stream" sparkle:edSignature="4SZI3t/9WwcfucZu2m43W+5MQwca6B2k7kRn1YSUqkv1l8Rgyj458gh+1Euvh19LRDXWoBH6lS2Vvul3Ren8Cw=="/>
         </item>
     </channel>
 </rss>
