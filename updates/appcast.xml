@@ -3,31 +3,32 @@
     <channel>
         <title>Continuum</title>
         <item>
+            <title>0.65.1</title>
+            <pubDate>Mon, 20 Jul 2026 11:28:43 +0400</pubDate>
+            <sparkle:version>336</sparkle:version>
+            <sparkle:shortVersionString>0.65.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.65.1-arm64.zip" length="238279125" type="application/octet-stream" sparkle:edSignature="1imFuFgb5Bx2gcuDLjWxKBTNDf5nyQKMjAzBTh1EQ8azbptkBFoYB70lEfJ6pxY0D/kW2naTEOK2++eUVOv7BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum336-333.delta" sparkle:deltaFrom="333" length="4125922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B8qm3b3YqJ1Wu7xPsMGdJQLOSDDNAsoQtIhxwCixNs+Kis0QLKSu8Xyw1kcQYN4tRrJB9rkKM2+KshCM23EIAg=="/>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum336-328.delta" sparkle:deltaFrom="328" length="6079526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FcLCgns+lTE9kIeevqHgNWbMiKq62tuItogBUVyB2aw5fVMeGK2XNySrJzzKP/SfpBmKhlDtW0Onlxca+Vo1Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.65.0</title>
-            <pubDate>Mon, 20 Jul 2026 02:35:25 +0400</pubDate>
+            <pubDate>Mon, 20 Jul 2026 11:27:01 +0400</pubDate>
             <sparkle:version>333</sparkle:version>
             <sparkle:shortVersionString>0.65.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.65.0-arm64.zip" length="238201270" type="application/octet-stream" sparkle:edSignature="Ua30qvNLJB1q4+lXhF7IvjlEAUtQxnmjLuFtihW0AvD1UkMkh/50CRiGWzFNT020HUDdnrAqNxWFqrcwGvWoBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum333-328.delta" sparkle:deltaFrom="328" length="5945126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WyWnBPrj1Ihvz90DG52YR/7uZZjB9J5bF4bjpo0ZPxrcMzeDyrNjWSdPVWi5q2iPaOB0lVIO9kuUe78edobwDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.64.3</title>
-            <pubDate>Mon, 20 Jul 2026 02:33:26 +0400</pubDate>
+            <pubDate>Mon, 20 Jul 2026 11:27:36 +0400</pubDate>
             <sparkle:version>328</sparkle:version>
             <sparkle:shortVersionString>0.64.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.64.3-arm64.zip" length="237917473" type="application/octet-stream" sparkle:edSignature="jhx7OiknYZQbyDSu2WtdnvTH7OJ3f1X+V8s3HYx2/8ANQ19cuS7KCsHtOd0Ze2J3xINmfMzURvae6DOlZRzRCA=="/>
-        </item>
-        <item>
-            <title>0.64.1</title>
-            <pubDate>Mon, 20 Jul 2026 02:34:06 +0400</pubDate>
-            <sparkle:version>326</sparkle:version>
-            <sparkle:shortVersionString>0.64.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.64.1-arm64.zip" length="237476028" type="application/octet-stream" sparkle:edSignature="cwAyyOFNd4PbX2JUho64pumk+ewFOtOaBCky+SeTE5WDrZv7KCHTbQxt0nybefA06kp7jRTpXsjSpkkq4RBCCg=="/>
         </item>
     </channel>
 </rss>
