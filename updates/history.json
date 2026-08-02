@@ -1,10 +1,374 @@
 [
   {
+    "version": "0.75.0",
+    "build": "356",
+    "title": "Continuum 0.75.0",
+    "publishedAt": "2026-08-02T12:32:15Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.75.0-arm64.md"
+  },
+  {
     "version": "0.74.0",
     "build": "355",
     "title": "Continuum 0.74.0",
     "publishedAt": "2026-08-01T16:21:35Z",
     "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.74.0-arm64.md"
+  },
+  {
+    "version": "0.73.0",
+    "build": "354",
+    "title": "Continuum 0.73.0",
+    "publishedAt": "2026-08-01T09:53:33Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.73.0-arm64.md"
+  },
+  {
+    "version": "0.72.1",
+    "build": "353",
+    "title": "Continuum 0.72.1",
+    "publishedAt": "2026-07-31T17:50:08Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.72.1-arm64.md"
+  },
+  {
+    "version": "0.72.0",
+    "build": "352",
+    "title": "Continuum 0.72.0",
+    "publishedAt": "2026-07-31T09:27:43Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.72.0-arm64.md"
+  },
+  {
+    "version": "0.71.0",
+    "build": "349",
+    "title": "Continuum 0.71.0",
+    "publishedAt": "2026-07-30T17:38:22Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.71.0-arm64.md"
+  },
+  {
+    "version": "0.70.0",
+    "build": "348",
+    "title": "Continuum 0.70.0",
+    "publishedAt": "2026-07-30T10:52:50Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.70.0-arm64.md"
+  },
+  {
+    "version": "0.69.0",
+    "build": "347",
+    "title": "Continuum 0.69.0",
+    "publishedAt": "2026-07-29T15:25:13Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.69.0-arm64.md"
+  },
+  {
+    "version": "0.68.0",
+    "build": "346",
+    "title": "Continuum 0.68.0",
+    "publishedAt": "2026-07-29T02:37:14Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.68.0-arm64.md"
+  },
+  {
+    "version": "0.67.0",
+    "build": "345",
+    "title": "Continuum 0.67.0",
+    "publishedAt": "2026-07-27T19:40:32Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.67.0-arm64.md"
+  },
+  {
+    "version": "0.66.2",
+    "build": "344",
+    "title": "Continuum 0.66.2",
+    "publishedAt": "2026-07-24T03:05:42Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.66.2-arm64.md"
+  },
+  {
+    "version": "0.66.1",
+    "build": "343",
+    "title": "Continuum 0.66.1",
+    "publishedAt": "2026-07-23T18:02:10Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.66.1-arm64.md"
+  },
+  {
+    "version": "0.66.0",
+    "build": "341",
+    "title": "Continuum 0.66.0",
+    "publishedAt": "2026-07-22T22:39:16Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.66.0-arm64.md"
+  },
+  {
+    "version": "0.65.5",
+    "build": "340",
+    "title": "Continuum 0.65.5",
+    "publishedAt": "2026-07-22T01:20:34Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.5-arm64.md"
+  },
+  {
+    "version": "0.65.4",
+    "build": "339",
+    "title": "Continuum 0.65.4",
+    "publishedAt": "2026-07-21T20:53:57Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.4-arm64.md"
+  },
+  {
+    "version": "0.65.3",
+    "build": "338",
+    "title": "Continuum 0.65.3",
+    "publishedAt": "2026-07-21T12:22:33Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.3-arm64.md"
+  },
+  {
+    "version": "0.65.2",
+    "build": "337",
+    "title": "Continuum 0.65.2",
+    "publishedAt": "2026-07-21T01:55:58Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.2-arm64.md"
+  },
+  {
+    "version": "0.65.1",
+    "build": "336",
+    "title": "Continuum 0.65.1",
+    "publishedAt": "2026-07-20T07:26:58Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.1-arm64.md"
+  },
+  {
+    "version": "0.65.0",
+    "build": "333",
+    "title": "Continuum 0.65.0",
+    "publishedAt": "2026-07-19T22:33:22Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.65.0-arm64.md"
+  },
+  {
+    "version": "0.64.3",
+    "build": "328",
+    "title": "Continuum 0.64.3",
+    "publishedAt": "2026-07-18T16:51:39Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.64.3-arm64.md"
+  },
+  {
+    "version": "0.64.1",
+    "build": "326",
+    "title": "Continuum 0.64.1",
+    "publishedAt": "2026-07-17T19:47:34Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.64.1-arm64.md"
+  },
+  {
+    "version": "0.64.0",
+    "build": "325",
+    "title": "Continuum 0.64.0",
+    "publishedAt": "2026-07-17T16:36:44Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.64.0-arm64.md"
+  },
+  {
+    "version": "0.63.6",
+    "build": "323",
+    "title": "Continuum 0.63.6",
+    "publishedAt": "2026-07-17T10:53:20Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.63.6-arm64.md"
+  },
+  {
+    "version": "0.63.3",
+    "build": "320",
+    "title": "Continuum 0.63.3",
+    "publishedAt": "2026-07-16T22:16:15Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.63.3-arm64.md"
+  },
+  {
+    "version": "0.63.0",
+    "build": "318",
+    "title": "Continuum 0.63.0",
+    "publishedAt": "2026-07-16T14:07:42Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.63.0-arm64.md"
+  },
+  {
+    "version": "0.62.6",
+    "build": "310",
+    "title": "Continuum 0.62.6",
+    "publishedAt": "2026-07-15T12:03:13Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.62.6-arm64.md"
+  },
+  {
+    "version": "0.62.0",
+    "build": "304",
+    "title": "Continuum 0.62.0",
+    "publishedAt": "2026-07-14T10:22:41Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.62.0-arm64.md"
+  },
+  {
+    "version": "0.61.3",
+    "build": "302",
+    "title": "Continuum 0.61.3",
+    "publishedAt": "2026-07-13T01:07:01Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.61.3-arm64.md"
+  },
+  {
+    "version": "0.61.1",
+    "build": "300",
+    "title": "Continuum 0.61.1",
+    "publishedAt": "2026-07-12T15:49:24Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.61.1-arm64.md"
+  },
+  {
+    "version": "0.61.0",
+    "build": "299",
+    "title": "Continuum 0.61.0",
+    "publishedAt": "2026-07-12T12:19:10Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.61.0-arm64.md"
+  },
+  {
+    "version": "0.60.0",
+    "build": "298",
+    "title": "Continuum 0.60.0",
+    "publishedAt": "2026-07-11T15:09:27Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.60.0-arm64.md"
+  },
+  {
+    "version": "0.59.1",
+    "build": "297",
+    "title": "Continuum 0.59.1",
+    "publishedAt": "2026-07-11T11:06:34Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.59.1-arm64.md"
+  },
+  {
+    "version": "0.59.0",
+    "build": "296",
+    "title": "Continuum 0.59.0",
+    "publishedAt": "2026-07-10T08:01:59Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.59.0-arm64.md"
+  },
+  {
+    "version": "0.58.1",
+    "build": "295",
+    "title": "Continuum 0.58.1",
+    "publishedAt": "2026-07-09T18:35:16Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.58.1-arm64.md"
+  },
+  {
+    "version": "0.58.0",
+    "build": "294",
+    "title": "Continuum 0.58.0",
+    "publishedAt": "2026-07-09T10:36:11Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.58.0-arm64.md"
+  },
+  {
+    "version": "0.57.22",
+    "build": "293",
+    "title": "Continuum 0.57.22",
+    "publishedAt": "2026-07-08T00:07:29Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.22-arm64.md"
+  },
+  {
+    "version": "0.57.20",
+    "build": "291",
+    "title": "Continuum 0.57.20",
+    "publishedAt": "2026-07-07T15:01:45Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.20-arm64.md"
+  },
+  {
+    "version": "0.57.19",
+    "build": "290",
+    "title": "Continuum 0.57.19",
+    "publishedAt": "2026-07-07T13:07:42Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.19-arm64.md"
+  },
+  {
+    "version": "0.57.18",
+    "build": "289",
+    "title": "Continuum 0.57.18",
+    "publishedAt": "2026-07-04T09:45:43Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.18-arm64.md"
+  },
+  {
+    "version": "0.57.17",
+    "build": "288",
+    "title": "Continuum 0.57.17",
+    "publishedAt": "2026-07-04T08:53:35Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.17-arm64.md"
+  },
+  {
+    "version": "0.57.16",
+    "build": "287",
+    "title": "Continuum 0.57.16",
+    "publishedAt": "2026-07-03T12:54:23Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.16-arm64.md"
+  },
+  {
+    "version": "0.57.15",
+    "build": "286",
+    "title": "Continuum 0.57.15",
+    "publishedAt": "2026-07-03T11:54:21Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.15-arm64.md"
+  },
+  {
+    "version": "0.57.14",
+    "build": "285",
+    "title": "Continuum 0.57.14",
+    "publishedAt": "2026-07-03T03:28:51Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.14-arm64.md"
+  },
+  {
+    "version": "0.57.13",
+    "build": "284",
+    "title": "Continuum 0.57.13",
+    "publishedAt": "2026-07-02T13:26:50Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.13-arm64.md"
+  },
+  {
+    "version": "0.57.12",
+    "build": "283",
+    "title": "Continuum 0.57.12",
+    "publishedAt": "2026-06-30T11:22:34Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.12-arm64.md"
+  },
+  {
+    "version": "0.57.11",
+    "build": "282",
+    "title": "Continuum 0.57.11",
+    "publishedAt": "2026-06-30T09:58:22Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.11-arm64.md"
+  },
+  {
+    "version": "0.57.10",
+    "build": "281",
+    "title": "Continuum 0.57.10",
+    "publishedAt": "2026-06-30T07:35:56Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.10-arm64.md"
+  },
+  {
+    "version": "0.57.9",
+    "build": "280",
+    "title": "Continuum 0.57.9",
+    "publishedAt": "2026-06-29T13:17:52Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.9-arm64.md"
+  },
+  {
+    "version": "0.57.8",
+    "build": "279",
+    "title": "Continuum 0.57.8",
+    "publishedAt": "2026-06-28T15:48:09Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.8-arm64.md"
+  },
+  {
+    "version": "0.57.7",
+    "build": "278",
+    "title": "Continuum 0.57.7",
+    "publishedAt": "2026-06-27T11:39:03Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.7-arm64.md"
+  },
+  {
+    "version": "0.57.6",
+    "build": "277",
+    "title": "Continuum 0.57.6",
+    "publishedAt": "2026-06-25T21:57:04Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.6-arm64.md"
+  },
+  {
+    "version": "0.57.4",
+    "build": "275",
+    "title": "Continuum 0.57.4",
+    "publishedAt": "2026-06-23T19:05:12Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.4-arm64.md"
+  },
+  {
+    "version": "0.57.3",
+    "build": "274",
+    "title": "Continuum 0.57.3",
+    "publishedAt": "2026-06-22T10:15:26Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.57.3-arm64.md"
   },
   {
     "version": "0.57.1",
