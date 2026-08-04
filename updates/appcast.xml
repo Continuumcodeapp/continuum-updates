@@ -3,31 +3,32 @@
     <channel>
         <title>Continuum</title>
         <item>
+            <title>0.78.0</title>
+            <pubDate>Tue, 04 Aug 2026 17:01:08 +0400</pubDate>
+            <sparkle:version>359</sparkle:version>
+            <sparkle:shortVersionString>0.78.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.78.0-arm64.zip" length="257424617" type="application/octet-stream" sparkle:edSignature="vuTzjCzECunfjg+U9YMf5ksj2F+mc+F4J88lTfH0c0lwbyPS7ppUZG8/s1UT7P+1CBjA1Jb73X+Ov9UhrjUVDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum359-358.delta" sparkle:deltaFrom="358" length="4971238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ShltlDOVstyzPyH+9Mc0XqdgDBKsxuyEteHofxkYYLxZXSzD5iIDlXyXZmercQw+1qNounTG2QYTIHqv5wcRAQ=="/>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum359-357.delta" sparkle:deltaFrom="357" length="5478670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ck049EDAFI5kDvX3866Fchhj1OZLQqxD/mkcHPkLiQJuZA5y7q/+xQJoJJrvNHc/tkvc5+xJLnZp+nDmo31GAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.77.0</title>
-            <pubDate>Tue, 04 Aug 2026 01:05:03 +0400</pubDate>
+            <pubDate>Tue, 04 Aug 2026 16:59:33 +0400</pubDate>
             <sparkle:version>358</sparkle:version>
             <sparkle:shortVersionString>0.77.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.77.0-arm64.zip" length="257319465" type="application/octet-stream" sparkle:edSignature="jRlOfWSvGFg2Fa+/N8Yr5G7CsLoulhL2wIm6YtxPmVJSmFTsfUlCm4ixv88RSNYUBCXlI9xd3uHoA7hoRoKqCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum358-357.delta" sparkle:deltaFrom="357" length="4241006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g0LM5B8rh6tbujPk82AQJarBw6Zu5y8/i3p3nHtzR/y26yF23/vs22J/nnL25PIZVgqMACNP629EoTsRfnv4CQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.76.0</title>
-            <pubDate>Tue, 04 Aug 2026 01:01:38 +0400</pubDate>
+            <pubDate>Tue, 04 Aug 2026 17:00:03 +0400</pubDate>
             <sparkle:version>357</sparkle:version>
             <sparkle:shortVersionString>0.76.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.76.0-arm64.zip" length="257223899" type="application/octet-stream" sparkle:edSignature="UVBHqyqYQY7d/KKSvalRBU1IWSzzpcWKxeoT6lz/S7kSmwld5Czj1McTfVNz6Yu6IgT7PxZVTHu5u3Vin4rOCA=="/>
-        </item>
-        <item>
-            <title>0.75.0</title>
-            <pubDate>Tue, 04 Aug 2026 01:02:09 +0400</pubDate>
-            <sparkle:version>356</sparkle:version>
-            <sparkle:shortVersionString>0.75.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.75.0-arm64.zip" length="257228603" type="application/octet-stream" sparkle:edSignature="x8OMsiKEKfS6oIq/hRpy7+6OK26AInmnhhc/YTdD9hjej/xbhJLld0PfXWJGcveVuXkp6Up8AIoWyE1DeljgBA=="/>
         </item>
     </channel>
 </rss>
