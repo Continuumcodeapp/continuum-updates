@@ -3,17 +3,25 @@
     <channel>
         <title>Continuum</title>
         <item>
+            <title>0.92.0</title>
+            <pubDate>Sun, 16 Aug 2026 05:26:02 +0400</pubDate>
+            <sparkle:version>375</sparkle:version>
+            <sparkle:shortVersionString>0.92.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.92.0-arm64.zip" length="583727495" type="application/octet-stream" sparkle:edSignature="N9CJMSTbS5fQeUN+QAL6f6ahAWFSxogB9XYDjBHgw1QxE17V/4fto0XZbViipFtWhMoHuwSZ0Y0uhgONwCXnAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum375-374.delta" sparkle:deltaFrom="374" length="273948414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f4CgcR530FzmIjJ3PPbxQjaU3GSiSTmMASoR+zPy10gvzvOQB8VAGVvcGVhl59ke3bWrJxrqKiAiNXceWQ+IBg=="/>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum375-373.delta" sparkle:deltaFrom="373" length="274608090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V4T7pctWnVxjOQ24ZcprGv/Cgw6cSn7SpGtl3FC2CMUBVF6elETjmdQwPXhv8XdbAJXEJ0MF7IwROmK4pMdiDQ=="/>
+                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum375-372.delta" sparkle:deltaFrom="372" length="214178982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L+QjoMZvg8t8aMc2RHWOhon2nEalEKSu74jHx71eE7+M3Ai0U4nx465oawTJG3iCsG1m9jnb5QAGehzVxQhfBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.91.0</title>
-            <pubDate>Sat, 15 Aug 2026 08:02:14 +0400</pubDate>
+            <pubDate>Sun, 16 Aug 2026 05:19:47 +0400</pubDate>
             <sparkle:version>374</sparkle:version>
             <sparkle:shortVersionString>0.91.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.91.0-arm64.zip" length="583625657" type="application/octet-stream" sparkle:edSignature="pXVUmFTLqDupPNSKS+wcN1t6zqJd9pwLrgcPnjdQn6tBu/bDGidHYpEi1VuVWK3bVmXAAQbV8OuIJ5VRWzr8Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum374-373.delta" sparkle:deltaFrom="373" length="268018142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ni/MmIao+9KzW9VY7lbpATrMwiIPzHQM2n1SRVJRZhHT19firgk5W+Jl4Wtkri9Kz6JKmszNKzbEX7LmbsnHCA=="/>
-                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum374-372.delta" sparkle:deltaFrom="372" length="276013286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HqY+pVMMHwylGP7mqxMTctWUV/Mdg1KtX0bcNfwSGytGyH/2Gn6rBfMKs7C4kQijLEnnzuFBvbF24BCRPK4aCg=="/>
-                <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum374-371.delta" sparkle:deltaFrom="371" length="281127202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HsoKCwKJxmg4DOn5x7Eu3j+h4uzZOkhnhxIFm5by7jRTGD4/5m6dk89dRMmL+hbn5diwhsJGCsT0Yfh6Qc6nAg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.90.0</title>
@@ -27,14 +35,6 @@
                 <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum373-371.delta" sparkle:deltaFrom="371" length="280236294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qba4dTIPrN8DYIXonaYDusE3HlE1OyvdRHo3CsFBLU2T4K0QA6skzARGuZ3I034Xr84R4GUnDQzSG0Rhmm1bAw=="/>
                 <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum373-370.delta" sparkle:deltaFrom="370" length="287508790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hj+OG0iXX9TnfsdminUglfBO3A3PIdg0PuZSY4uTPV11oTsCpTcKXXoriQVdYoB0pboroTSWGq77Ji7t/THiCg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.89.0</title>
-            <pubDate>Fri, 14 Aug 2026 14:18:38 +0400</pubDate>
-            <sparkle:version>372</sparkle:version>
-            <sparkle:shortVersionString>0.89.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Continuumcodeapp/continuum-updates/releases/download/mac-updates/Continuum-0.89.0-arm64.zip" length="583561166" type="application/octet-stream" sparkle:edSignature="CNU+g/+ghgoJu6hQhLBSkIJ/59I1SSxOms+ckC9zkZ8C4/tBdapN5R9EeXWil7gpJxQltMhEWL0jYgQ5Y2fiCA=="/>
         </item>
     </channel>
 </rss>
