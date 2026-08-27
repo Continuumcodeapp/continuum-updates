@@ -1,5 +1,12 @@
 [
   {
+    "version": "0.96.21",
+    "build": "398",
+    "title": "Continuum 0.96.21",
+    "publishedAt": "2026-08-27T11:09:25Z",
+    "notesURL": "https://continuumcodeapp.github.io/continuum-updates/updates/release-notes/Continuum-0.96.21-arm64.md"
+  },
+  {
     "version": "0.96.20",
     "build": "397",
     "title": "Continuum 0.96.20",
